@@ -1,0 +1,2 @@
+# scripts
+#!/bin/bash #creador del scritp : hacker2002d  R='\033[1;31m'                                      > Y='\033[1;33m' B='\033[1;34m' M='\033[1;35m' C='\033[1;36m' W='\033[0m'  echo"" echo"" echo"" echo""      echo -e  "$C ¡Tu nombre es!:"  echo""                                read                 >   echo"" echo"" echo"" echo"" echo""  echo -e  "$C ¡ cual es tu alias!:"  echo""                             read
